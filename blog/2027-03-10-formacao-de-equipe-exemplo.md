@@ -27,4 +27,4 @@ colegas direito.
 ## Que conhecimentos, ferramentas ou práticas você sente que já domina, e quais ainda são novidade para você neste momento?
 
 Já uso Git no dia a dia, mas nunca trabalhei com um fluxo de Pull Request tão
-formal, com revisão obrigatória antes do merge. Isso é novidade para mim.
+formal, com revisão obrigatória antes do merge. Isso é novidade para mim
