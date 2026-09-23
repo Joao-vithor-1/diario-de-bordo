@@ -38,7 +38,7 @@ Também um membro do grupo definiu as issues, isso facilitou a organização das
 ## formacao-equipe 
 _(pergunta: Que conhecimentos, ferramentas ou práticas você sente que já domina, e quais ainda são novidade para você neste momento?)_
 
-    Eu sinto que tô começando a dominar pydantic e FASTApi, no começo eu mal conseguia fazer qualquer classe sem olhar alguma tabela ou tutorial, agora estou confiante nisso, além do FASTApi ser bem simples de usar e entender.
+Eu sinto que tô começando a dominar pydantic e FASTApi, no começo eu mal conseguia fazer qualquer classe sem olhar alguma tabela ou tutorial, agora estou confiante nisso, além do FASTApi ser bem simples de usar e entender.
     Eu acho novidade é banco de dados, além das outras coisas que só comecei a estudar nessa disciplina, essa foi a mais difícil de entender. Pois além de entender como armazenar tudo na tabela e verificar os dados, também é necessária entender suas limitações, como o SQLite não aceita array/lista, o que dificulta o armazenamento de datas/modificações de um post, por exemplo.
 
 ## pre-release-1
