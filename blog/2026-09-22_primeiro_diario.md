@@ -1,7 +1,7 @@
 ---
 title: Sprint 1 — 2026-09-22
 authors: [John?]
-tags: [formacao-equipe, pre-release-2]
+tags: [formacao-equipe, pre-release-1]
 date: 2026-09-22
 ---
 
