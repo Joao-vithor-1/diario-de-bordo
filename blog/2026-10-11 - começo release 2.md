@@ -1,7 +1,7 @@
 ---
 title: Sprint 5 — 2026-10-11
 authors: [John]
-tags: [formacao-equipe, pre-release-1]
+tags: [formacao-equipe, pre-release-2]
 date: 2026-10-11
 ---
 
