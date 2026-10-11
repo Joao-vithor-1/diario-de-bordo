@@ -40,7 +40,8 @@ Eu acredito que a gente consiga entregar algo funcionando até o release 2, mesm
 ## entre-releases
 
 _(pergunta: O que mudou, para você, entre o início da disciplina e este momento — tecnicamente e no seu jeito de trabalhar em equipe?)_
- A principal mudança que tive foi na comunicação. Depois que alguns dos meus colegas trancaram, percebi que nem todos estão no mesmo ritmo ou conseguem acompanhar a disciplina.
+
+A principal mudança que tive foi na comunicação. Depois que alguns dos meus colegas trancaram, percebi que nem todos estão no mesmo ritmo ou conseguem acompanhar a disciplina.
 
 Então, decidi comunicar o máximo possível e deixar claro o que tem que fazer e como ajudar a complementar o projeto, já que esse foi o principal motivo de dois colegas trancarem, pois só perceberam o que tinha que fazer um pouco antes do release 1. Assim, acredito que, se eu conseguisse ajudar eles antes ou se eu comunicasse melhor o que tinha que fazer, eles talvez ficariam neste projeto.
 
